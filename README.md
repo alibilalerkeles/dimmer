@@ -1,0 +1,2 @@
+# dimmer
+DİMMER DEVRESİ İLE GÜÇ KONTROLÜ DENEYİ
